@@ -254,8 +254,7 @@ msgstr[1] "Ziur zaude hautatutako %d liburuak ezabatu nahi dituzula?"
 
 #: src/library.js:451
 msgid "Reading progress, annotations, and bookmarks will be permanently lost."
-msgstr ""
-"Irakurketaren aurrerapena, oharrak eta laster-markak betiko galduko dira."
+msgstr "Irakurketaren aurrerapena, oharrak eta laster-markak betiko galduko dira."
 
 #: src/library.js:457 src/ui/annotationBox.ui:63 src/ui/annotationRow.ui:53
 #: src/ui/bookBoxMenu.ui:44 src/ui/bookmarkRow.ui:44
@@ -358,10 +357,8 @@ msgstr "OPDSren kalalogoaren URLa:"
 #. they will be shown in the "About" dialog
 #: src/main.js:208
 msgid "translator-credits"
-msgstr ""
-"Juan Campos\n"
-"Blanc Chan\n"
-"micrococo"
+msgstr "Alexander Gabilondo"
+
 
 #: src/main.js:210 data/com.github.johnfactotum.Foliate.appdata.xml.in:7
 msgid "A simple and modern eBook viewer"
@@ -2016,11 +2013,11 @@ msgstr "Egilea aipamenetan edo testu laburpenetan"
 
 #: src/schemes.js:245
 msgid "Architect"
-msgstr ""
+msgstr "Arkitektoa"
 
 #: src/schemes.js:246
 msgid "Artistic director"
-msgstr ""
+msgstr "Zuzendari artistikoa"
 
 #: src/schemes.js:247
 msgid "Arranger"
@@ -4115,130 +4112,131 @@ msgstr "Permitir contenido inseguro"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:192
 msgid "If true, allow JavaScript"
-msgstr "Si se activa, permite JavaScript"
+msgstr "Aktibatzen bada, JavaScripta gaitzen da"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:196
 msgid "Enable developer tools"
-msgstr "Habilitar las herramientas de desarrollador"
+msgstr "Gaitu garapen tresnak"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:197
 msgid "If true, developer tools are enabled"
-msgstr "Si se activa, se habilitan las herramientas de desarrollador"
+msgstr "Aktibatzen bada, garapen-tresnak gaitzen dira"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:202
 msgid "Page layout"
-msgstr "Diseño de página"
+msgstr "Orriaren diseinua"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:206
 msgid "Skeuomorphism"
-msgstr "Esqueumorfismo"
+msgstr "Skeumorfismoa"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:207
 msgid ""
 "If true, the book is decoratively presented in a way that resembles physical "
 "books"
 msgstr ""
-"Si se activa, el libro se presenta decorado de forma que se asemeja a los "
-"libros físicos"
-
+"Aktibatzen bada, liburua apaingarri gisa aurkezten da liburu fisikoen antza"
+"duen moduan"
+ 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:211
 msgid "Auto-hide cursor"
-msgstr "Ocultar el cursor automáticamente"
+msgstr "Ezkutatu kurtsorea automatikoki"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:212
 msgid "Whether to hide the cursor automatically"
-msgstr "Si se oculta el cursor automáticamente o no"
+msgstr "Kurtsorea automatikoki ezkutatzen ote den"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:219
 #: data/com.github.johnfactotum.Foliate.gschema.xml:257
 msgid "Window width"
-msgstr "Ancho de la ventana"
+msgstr "Leihoaren zabalera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:220
 msgid "Width of the window"
-msgstr "Ancho de la ventana"
+msgstr "Leihoaren zabalera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:224
 #: data/com.github.johnfactotum.Foliate.gschema.xml:262
 msgid "Window height"
-msgstr "Altura de la ventana"
+msgstr "Leihoaren altuera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:225
 msgid "Height of the window"
-msgstr "Altura de la ventana"
+msgstr "Leihoaren altuera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:229
 #: data/com.github.johnfactotum.Foliate.gschema.xml:267
 msgid "Maximized"
-msgstr "Maximizada"
+msgstr "Maximizatua"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:230
 msgid "Whether the window is maximized"
-msgstr "Si se maximiza la ventana o no"
+msgstr "Leihoa maximizatzen ote den"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:235
 msgid "Whether the window is fullscreen"
-msgstr "Si se pone la ventana en modo pantalla completa o no"
+msgstr "Leihoa pantaila osoan erakusten ote den"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:239
 #: data/com.github.johnfactotum.Foliate.gschema.xml:240
 msgid "Last file opened"
-msgstr "Último archivo abierto"
+msgstr "Irekitako azken fitxategia"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:245
 msgid "Whether the sidebar is shown"
-msgstr "Si se muestra el panel lateral o no"
+msgstr "Alboko panela erakusten ote den"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:249
 msgid "Sidebar size"
-msgstr "Tamaño del panel lateral"
+msgstr "Alboko panelaren tamaina"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:250
 msgid "Sidebar width"
-msgstr "Ancho del panel lateral"
+msgstr "Alboko panelaren zabalera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:258
 msgid "Width of the library window"
-msgstr "Ancho de la ventana de la biblioteca"
+msgstr "Liburutegiko leihoaren zabalera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:263
 msgid "Height of the library window"
-msgstr "Altura de la ventana de la biblioteca"
+msgstr "Liburutegiko leihoaren altuera"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:268
 msgid "Whether the library window is maximized"
-msgstr "Si se maximiza la ventana de la biblioteca o no"
+msgstr "Liburutegia maximizatzen ote den"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:273
 msgid "How to view the library"
-msgstr "Cómo ver la biblioteca"
+msgstr "Nola ikusi liburutegia"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:277
 msgid "Library page"
-msgstr "Página de la biblioteca"
+msgstr "Liburutegiko orria"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:278
 msgid "Current library page (“library” or “catalog”)"
-msgstr "Página actual de la biblioteca («biblioteca» o «catálogo»)"
+msgstr "Liburutegiko uneko orria («liburutegia» edo «katalogoa»)"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:282
 msgid "Use Tracker"
-msgstr "Usar «Tracker»"
+msgstr "Erabili Tracker»"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:283
 msgid ""
 "If true, will try to use Tracker (the file indexer) to get file locations"
 msgstr ""
-"Si se activa, se intenta usar «Tracker» (el indexador de archivos) para "
-"obtener las ubicaciones de archivos"
+"Egia bada, Tracker (fitxategi-indizea) erabiltzen saiatuko da fitxategien"
+"kokapenak lortzeko"
+
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:287
 msgid "OPDS download action"
-msgstr ""
+msgstr "OPDS deskargatzeko ekintza"
 
 #: data/com.github.johnfactotum.Foliate.gschema.xml:288
 msgid "What to do when downloading a file from an OPDS feed"
-msgstr ""
+msgstr "Zer egin OPDS jario batetik fitxategi bat deskargatzean"
 
 #~ msgid ""
 #~ "This book has no identifier. This is the MD5 hash generated from the file."
